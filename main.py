@@ -1,8 +1,7 @@
-# The below function calculates if a year is leap year or not
 # Created by Agamdeep Singh / CodeWithAgam
 # Youtube: CodeWithAgam
 # Github: CodeWithAgam
-# Instagram: @agamdeep_21, @coderagam001
+# Instagram: @coderagam001 / @codewithagam
 # Twitter: @CoderAgam001
 # Linkdin: Agamdeep Singh
 
